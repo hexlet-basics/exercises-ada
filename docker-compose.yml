@@ -5,5 +5,5 @@ version: '3.7'
 services:
   exercises:
     build: .
-    image: hexletbasics/exercises-typescript:cached
+    image: hexletbasics/exercises-ada:cached
     command: make check
