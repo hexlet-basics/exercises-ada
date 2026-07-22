@@ -1,7 +1,10 @@
 ---
 
 language:
-  docker_image: "ghcr.io/hexlet-basics/exercises-typescript"
-  extension: ts
-  exercise_filename: index.ts
-  exercise_test_filename: test.ts
+  docker_image: "ghcr.io/hexlet-basics/exercises-ada"
+  extension: adb
+  exercise_filename: index.adb
+  exercise_test_filename: test.adb
+  learn_as: first_language
+  progress: in_development
+  name: Ada
